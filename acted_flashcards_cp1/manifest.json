@@ -1,0 +1,12 @@
+{
+  "package": "acted_flashcards_cp1",
+  "name": "Acted Flashcards CP1",
+  "mod": 0,
+  "human_version": "1.0.0",
+  "min_point_version": 0,
+  "max_point_version": 0,
+  "homepage": "",
+  "addon_id": null,
+  "author": "",
+  "description": "Imports the Acted Flashcards CP1 deck from bundled TSV data."
+}
